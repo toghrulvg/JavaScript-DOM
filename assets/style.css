@@ -1,0 +1,47 @@
+#number-1{
+    width: 40%;
+
+}
+#number-2{
+    width: 40%;
+    float: right;
+}
+#add{
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    background-color: red;
+    border: 1px solid red;
+}
+#mult{
+    margin-left: 250px;
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    border: 1px solid blue;
+}
+#sub{
+    margin-left: 250px;
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    background-color: brown;
+    border: 1px solid brown;
+}
+    
+
+#div{
+    margin-left: 250px;
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    background-color: aqua;
+    border: 1px solid aqua;
+}
+    
+#result{
+    width: 30%;
+    margin-left: 400px;
+    margin-top: 30px;
+}
